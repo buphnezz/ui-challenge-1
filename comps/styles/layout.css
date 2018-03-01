@@ -1,0 +1,36 @@
+.top-squares {
+  display: inline-block;
+  align-content: center;
+  vertical-align: top;
+    
+}
+
+.bottom-squares {
+  display: inline;
+  align-content: center;
+}
+
+#a {
+  text-align: justify;
+
+}
+#b {
+  position: relative;
+  left: 11px;
+  bottom: 139px;
+
+}
+#c {
+  position: relative;
+  left: 11px;
+  bottom: 139px;
+
+}
+#d {
+  text-align: left;
+}
+
+#e {
+  float: center;
+  align-content: center;
+}
