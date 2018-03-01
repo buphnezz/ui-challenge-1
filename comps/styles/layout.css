@@ -9,6 +9,11 @@
   align-content: center;
 }
 
+.top {
+  /* border-top-color: 3px solid black; */
+  border-style: solid none none none;
+  
+}
 #a {
   position: relative;
   left: 10px;
@@ -31,6 +36,7 @@
   position: relative;
   left: 10px;
   bottom: 139px;
+  border-style: solid none none none;
 }
 
 #e {
@@ -49,6 +55,7 @@
   position: relative;
   left: 10px;
   bottom: 264px;
+  border-style: solid none none none;
 }
 
 #h {

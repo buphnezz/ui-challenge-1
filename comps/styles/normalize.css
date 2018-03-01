@@ -5,3 +5,9 @@ body {
   align-content: center;  
   font-family: sans-serif;
 }
+
+@media only screen and (min-width: 768px) {
+  body{
+    width: 960px;
+  }
+}
